@@ -1,5 +1,13 @@
 {
   "name": "hucha",
+<<<<<<< HEAD
   "integrations": {},
   "type": "ionic-angular"
+=======
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "1e462279"
+>>>>>>> dd73179d183b556304fa4b7510aec0c6509e8e28
 }

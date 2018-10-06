@@ -19,7 +19,11 @@ npm-debug.log*
 .tmp/
 .versions/
 coverage/
+<<<<<<< HEAD
 dist/
+=======
+www/
+>>>>>>> dd73179d183b556304fa4b7510aec0c6509e8e28
 node_modules/
 tmp/
 temp/
@@ -27,7 +31,10 @@ platforms/
 plugins/
 plugins/android.json
 plugins/ios.json
+<<<<<<< HEAD
 www/
+=======
+>>>>>>> dd73179d183b556304fa4b7510aec0c6509e8e28
 $RECYCLE.BIN/
 
 .DS_Store
